@@ -1,9 +1,6 @@
 import './App.css';
 import Category from './components/Category';
-import {
-  useState,
-  useEffect
-} from 'react';
+import { useState, useEffect } from 'react';
 
 function App() {
 
